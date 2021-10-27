@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BotBabaAssignment/static/css/main.383432e9.chunk.css",
+    "main.js": "/BotBabaAssignment/static/js/main.9fb98703.chunk.js",
+    "main.js.map": "/BotBabaAssignment/static/js/main.9fb98703.chunk.js.map",
+    "runtime-main.js": "/BotBabaAssignment/static/js/runtime-main.718674a8.js",
+    "runtime-main.js.map": "/BotBabaAssignment/static/js/runtime-main.718674a8.js.map",
+    "static/js/2.03e82964.chunk.js": "/BotBabaAssignment/static/js/2.03e82964.chunk.js",
+    "static/js/2.03e82964.chunk.js.map": "/BotBabaAssignment/static/js/2.03e82964.chunk.js.map",
+    "index.html": "/BotBabaAssignment/index.html",
+    "precache-manifest.23fdc586c8f959e8399af3f25fcbc1c1.js": "/BotBabaAssignment/precache-manifest.23fdc586c8f959e8399af3f25fcbc1c1.js",
+    "service-worker.js": "/BotBabaAssignment/service-worker.js",
+    "static/css/main.383432e9.chunk.css.map": "/BotBabaAssignment/static/css/main.383432e9.chunk.css.map",
+    "static/js/2.03e82964.chunk.js.LICENSE.txt": "/BotBabaAssignment/static/js/2.03e82964.chunk.js.LICENSE.txt",
+    "static/media/placeholder-user.jpg": "/BotBabaAssignment/static/media/placeholder-user.6a51178c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.718674a8.js",
+    "static/js/2.03e82964.chunk.js",
+    "static/css/main.383432e9.chunk.css",
+    "static/js/main.9fb98703.chunk.js"
+  ]
+}
